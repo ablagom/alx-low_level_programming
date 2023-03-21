@@ -1,8 +1,8 @@
 #include <unistd.h>
 
 /**
- * main - Print: "the desired string to the standard error"
- * Return: 1 if success
+ * main - print: "the desired string to the standard error"
+ * Return: Always 1
  */
 int main(void)
 {
