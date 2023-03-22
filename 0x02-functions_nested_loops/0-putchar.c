@@ -10,7 +10,7 @@
 */
 int main(void)
 {
-	_putchar('H');
+	_putchar('h');
 	_putchar('e');
 	_putchar('l');
 	_putchar('l');
