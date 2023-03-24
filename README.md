@@ -1,1 +1,1 @@
-function
+low programming
